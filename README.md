@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **HTML,CSS & Javascript**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: arturolorabaritone@gmail.com</h3>
 <p align="left">
 </p>
 
